@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Curriculum Vitae</title>
+</head>
+<body>
+<background ="fondo.jpeg">
+<img src = "perro.jpg" width = "400" height= "341" border = "2">
+<font size = "9" color = "purple" font-family:Arial>
+<p><h1><b> Curriculum Vitae <b></h1></p>
+<b><i> Josué Alberto Cerón García</b></i>
+<br>
+<hr size = "12" color = "red">
+<font size = "5" color = "red" font-family:Arial>
+<p> Datos personales </p>
+<br>
+<hr size = "12" color = "black">
+<font size = "5" color = "red" font-family:Arial>
+<p> estudios... </p>
+<br>
+<hr size = "12" color = "cyan">
+<font size = "5" color = "red" font-family:Arial>
+<p> experiencia Laboral... </p>
+</body>
+</html>
